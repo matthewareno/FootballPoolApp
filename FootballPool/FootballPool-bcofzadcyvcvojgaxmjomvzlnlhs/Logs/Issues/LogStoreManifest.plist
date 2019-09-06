@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>EDC1E59E-F4CD-48A2-9CD2-9E573F828404</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>EDC1E59E-F4CD-48A2-9CD2-9E573F828404.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>FootballPool-bcofzadcyvcvojgaxmjomvzlnlhs</string>
+			<key>timeStartedRecording</key>
+			<real>589419072.81116796</real>
+			<key>timeStoppedRecording</key>
+			<real>589419074.18567896</real>
+			<key>title</key>
+			<string>Build target FootballPool</string>
+			<key>uniqueIdentifier</key>
+			<string>EDC1E59E-F4CD-48A2-9CD2-9E573F828404</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

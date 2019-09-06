@@ -1,0 +1,109 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FootballPoolUser"
+provides-nominal:
+- "12FootballPool0aB4UserC"
+provides-member:
+- ["12FootballPool0aB4UserC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "FloatLiteralType"
+- "FootballPoolUser"
+- "IntegerLiteralType"
+- "NSObject"
+- "String"
+- "StringLiteralType"
+- "UInt16"
+- "UInt32"
+depends-member:
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["SQ", ""]
+- !private ["SQ", "init"]
+- ["12FootballPool0aB4UserC", "String"]
+- ["12FootballPool0aB4UserC", "UInt16"]
+- ["12FootballPool0aB4UserC", "UInt32"]
+- ["12FootballPool0aB4UserC", "deinit"]
+- ["12FootballPool0aB4UserC", "init"]
+- ["12FootballPool0aB4UserC", "userConferenceId"]
+- ["12FootballPool0aB4UserC", "userConferenceLoses"]
+- ["12FootballPool0aB4UserC", "userConferencePoints"]
+- ["12FootballPool0aB4UserC", "userConferenceTies"]
+- ["12FootballPool0aB4UserC", "userConferenceWins"]
+- ["12FootballPool0aB4UserC", "userEmail"]
+- ["12FootballPool0aB4UserC", "userFirstName"]
+- ["12FootballPool0aB4UserC", "userId"]
+- ["12FootballPool0aB4UserC", "userLastName"]
+- ["12FootballPool0aB4UserC", "userOverallLoses"]
+- ["12FootballPool0aB4UserC", "userOverallTies"]
+- ["12FootballPool0aB4UserC", "userOverallWins"]
+- ["12FootballPool0aB4UserC", "userRegularPoints"]
+- ["12FootballPool0aB4UserC", "userSeasonWins"]
+- ["12FootballPool0aB4UserC", "userUserName"]
+- ["SH", ""]
+- !private ["SH", "init"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UInt16"]
+- ["So8NSObjectC", "UInt32"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "userConferenceId"]
+- ["So8NSObjectC", "userConferenceLoses"]
+- ["So8NSObjectC", "userConferencePoints"]
+- ["So8NSObjectC", "userConferenceTies"]
+- ["So8NSObjectC", "userConferenceWins"]
+- ["So8NSObjectC", "userEmail"]
+- ["So8NSObjectC", "userFirstName"]
+- ["So8NSObjectC", "userId"]
+- ["So8NSObjectC", "userLastName"]
+- ["So8NSObjectC", "userOverallLoses"]
+- ["So8NSObjectC", "userOverallTies"]
+- ["So8NSObjectC", "userOverallWins"]
+- ["So8NSObjectC", "userRegularPoints"]
+- ["So8NSObjectC", "userSeasonWins"]
+- ["So8NSObjectC", "userUserName"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "12FootballPool0aB4UserC"
+- "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c4d0262909fd7b1ab8f9e38a606a41f3"

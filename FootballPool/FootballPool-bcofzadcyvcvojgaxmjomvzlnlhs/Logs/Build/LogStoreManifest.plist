@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>52CDEDCA-2400-4906-BE0F-92CFDA7B2D2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52CDEDCA-2400-4906-BE0F-92CFDA7B2D2E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FootballPool project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FootballPool</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FootballPool</string>
+			<key>timeStartedRecording</key>
+			<real>589419072.71548998</real>
+			<key>timeStoppedRecording</key>
+			<real>589419074.20175505</real>
+			<key>title</key>
+			<string>Build FootballPool</string>
+			<key>uniqueIdentifier</key>
+			<string>52CDEDCA-2400-4906-BE0F-92CFDA7B2D2E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

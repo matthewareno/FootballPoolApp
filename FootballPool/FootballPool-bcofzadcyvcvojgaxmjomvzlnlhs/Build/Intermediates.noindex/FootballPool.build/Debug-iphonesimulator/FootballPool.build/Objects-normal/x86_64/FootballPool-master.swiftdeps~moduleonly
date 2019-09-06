@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "e2090240c0c30ff1a0dfaeae199c94a6"
+build_time: [1560325514, 276031000]
+inputs:
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/SecondViewController.swift": [1560258046, 708231294]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/AppDelegate.swift": [1560172777, 482864274]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FootballPoolGame.swift": [1560262464, 155786053]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FootballPoolTeam.swift": [1560262421, 284234735]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FootballPoolSqlite.swift": [1560325508, 109160991]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/ThirdViewController.swift": [1560238204, 753394053]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FootballPoolUser.swift": [1560262383, 709684031]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FootballPickCell.swift": [1560253576, 0]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FirstViewController.swift": [1560321654, 178088528]

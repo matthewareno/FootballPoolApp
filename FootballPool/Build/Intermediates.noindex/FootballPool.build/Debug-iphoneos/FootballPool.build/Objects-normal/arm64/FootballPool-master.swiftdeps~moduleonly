@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0ef2c8cdc9dbc4c3fe1f7b4c56c71b0b"
+build_time: [1567725939, 656395000]
+inputs:
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/RoundButton.swift": [1560981102, 349315771]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/FootballPoolNetworkClient.swift": [1567642187, 109963467]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/ScoresViewController.swift": [1567645791, 95993892]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/AppDelegate.swift": [1567644045, 220004403]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/HomeViewController.swift": [1567643667, 702125224]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/PicksViewController.swift": [1567697965, 980563630]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/TabViewController.swift": [1567642731, 521834287]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/StandingsViewController.swift": [1567643899, 785425818]
+  "/Users/arenomat/Documents/Development/FootballPool/FootballPool/LoginViewController.swift": [1567725939, 54682696]
